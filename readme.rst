@@ -1,3 +1,6 @@
+user: test@test.com
+pass: 123
+
 ###################
 What is CodeIgniter
 ###################
